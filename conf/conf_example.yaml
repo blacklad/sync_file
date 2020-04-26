@@ -1,0 +1,14 @@
+localBasePath: /Users/blacklad/tmp/
+ossBasePath: test/
+syncBasePath: md/blacklad/
+dbPath: /Users/blacklad/storage.db
+
+oss:
+  endpoint: oss-cn-beijing.aliyuncs.com
+  key: aa
+  secret: bb
+
+sync:
+  url: https://dav.jianguoyun.com/dav/
+  user: aa
+  password: bb
